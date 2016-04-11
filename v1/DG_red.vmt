@@ -2,5 +2,5 @@
 {
 "$spriteorientation" "vp_parallel"
 "$spriteorigin" "[ 0.50 0.50 ]"
-"$basetexture" "*MATERIAL DIRECTORY*/DG_red"
+"$basetexture" "dg/DG_red"
 }

@@ -5,6 +5,7 @@ http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 --------------------------------------------------------------------------------
 
 ## Drinking Game Icons (c) by Lech Deregowski
+https://github.com/lech/DG-Icons
 
 Drinking Game Icons are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
