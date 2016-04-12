@@ -10,11 +10,9 @@
 
 ## File info
 
-  - `DG_red.vtf` & `DG_blu.vtf` are saved in `DTX5` format `128 x 128` pixels in size.
-
   - `uncrushed` files saved in `BGRA8888` format and `256 x 256` pixels in size.
-
   - `crushed` files saved in `DTX5` format and `256 x 256` pixels in size.
+    - `DG_red.vtf` & `DG_blu.vtf` are in `DTX5` format at `128 x 128px`
 
 ### VTF info
 
@@ -32,7 +30,7 @@ No Level of Detail
 
 ## VMT info
 
-If you use these in your project, you will want to edit the associated `"$basetexture"` line in each VMT file to match your project path and filenames for the files you use.
+If you use these in your own project, you will need to edit the associated `"$basetexture"` line in each VMT file to match your path setup.
 
 ```
 "Sprite"
