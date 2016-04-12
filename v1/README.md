@@ -11,8 +11,8 @@
 ## File info
 
   - `uncrushed` files saved in `BGRA8888` format and `256 x 256` pixels in size.
-  - `crushed` files saved in `DTX5` format and `256 x 256` pixels in size.
-    - `DG_red.vtf` & `DG_blu.vtf` are in `DTX5` format at `128 x 128px`
+  - `crushed` files saved in `DXT5` format and `256 x 256` pixels in size.
+    - `DG_red.vtf` & `DG_blu.vtf` are in `DXT5` format at `128 x 128px`
 
 ### VTF info
 

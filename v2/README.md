@@ -21,7 +21,7 @@ Version 1 icons were simple and single-purpose icons quickly drawn to illustrate
 
 ## File info
 
-  - Format `DTX5`
+  - Format `DXT5`
   - Size `128 x 128 px`
 
 ### VTF info
